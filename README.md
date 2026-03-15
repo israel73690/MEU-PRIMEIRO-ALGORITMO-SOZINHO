@@ -20,6 +20,8 @@ Inicio
    
    escreval("Qual a sua altura?")
    leia(altura)
+
+   peso <- (altura * peso)/2
    
    se peso >= 80 entao
    escreval("Você está acima do peso!")
